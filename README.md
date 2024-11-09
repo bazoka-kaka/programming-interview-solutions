@@ -10,10 +10,10 @@ A bunch of programming solutions from real interviews / job programming tests th
 2. [Wildcard Characters](https://coderbyte.com/information/Wildcard%20Characters)
 3. SQL Employee Salaries
 
-## Platforms:
+## Platforms
 
 - https://coderbyte.com/
 
-## Contributors:
+## Contributors
 
 - [bazoka-kaka](https://www.github.com/bazoka-kaka)
