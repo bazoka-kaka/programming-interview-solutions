@@ -1,6 +1,7 @@
 # Off Line Minimum
 
-URL: https://coderbyte.com/information/Off%20Line%20Minimum
+URL: https://coderbyte.com/information/Off%20Line%20Minimum <br />
+Tags: `Easy` `array manipulation`
 
 ## Description
 
@@ -8,8 +9,8 @@ Have the function OffLineMinimum(strArr) take the strArr parameter being passed 
 
 ## Examples
 
-input: 5 4 6 E 1 7 E E 3 2
-output: 1 2
+Input: 5 4 6 E 1 7 E E 3 2 <br />
+Output: 1 2
 
-input: 4 E 1 E 2 E 3 E
-output: 4 1 2 3
+Input: 4 E 1 E 2 E 3 E <br />
+Output: 4 1 2 3
