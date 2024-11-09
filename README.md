@@ -1,4 +1,4 @@
-# Programming Interview Solutions 2024
+# Programming Interview Solutions
 
 ## About
 
